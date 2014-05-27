@@ -1,0 +1,51 @@
+
+.logo {
+	padding-top: 0px; 
+	padding-bottom: 0px;
+	width: 50px;
+}
+
+.jumbotron.master {
+	margin-bottom: 0;
+	color: white;
+	background-image:url('http://fc03.deviantart.net/fs12/f/2006/337/d/c/Red_Bubbles_by_Adaera.jpg');
+	background-color:rgba(255,0,0,0.7);
+	background-size: cover;                   
+	background-repeat: no-repeat;
+
+}
+ 
+
+
+body
+{
+background-image:url('http://fc03.deviantart.net/fs12/f/2006/337/d/c/Red_Bubbles_by_Adaera.jpg');
+background-color:rgba(255,0,0,0.7);
+background-size: cover;                   
+background-repeat: no-repeat;
+}
+
+
+.btn-success {
+color: white;
+background-color: red;
+border-color: black;}
+
+.naw {
+	color:white;
+	text-align: right;
+}
+ 
+
+#share-buttons img {
+width: 50px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+ 
+
+
+
+
